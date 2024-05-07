@@ -1,6 +1,5 @@
 ---
-layout: default
-
+layout: presentation
 ---
 
 {% assign pages = site.pages | sort: "order" %}

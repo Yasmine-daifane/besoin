@@ -1,8 +1,8 @@
 ---
 layout: default
-empathie: orthoptiste
-order: 10
-
+package: Besoin-orthoptiste
+presentation: Besoin-orthoptiste
+order: 5
 ---
 # Empathie avec service de rééducation (Orthoptiste)
 {:class="sectionHeader"}
@@ -16,12 +16,12 @@ order: 10
 
 un séance d'empathie avec madame Imane Errahmouni 
 
-<!-- note -->
-
+{:class="hiddenPresentation"}
 ## Persona : 
 Imane Errahmouni
-
 ### Ce qu'il dit : 
+
+
 - nous recevons les bénéficiaires accompagnés de leur bon d’orientation suivi par le médecin généraliste.
 - à l'aide d'un tableau de temps composé de deux parties :
 - une pour les bénéficiaires en visite libre sans rendez-vous.
@@ -31,6 +31,8 @@ Imane Errahmouni
 - au début elle gère ce tableau sur papier  puis elle a switché vers l'outil Excel, or elle trouve des difficultés à travailler avec ce dernier
 
 ### Ce qu’il fait : 
+{:class="hiddenPresentation"}
+
 - Numéro d’ordre 
 - Date
 - Numéro dossier 
@@ -48,4 +50,4 @@ Imane Errahmouni
 - AUTRE
 - OBSERVATION
 - RH
-
+<!-- new slide -->
