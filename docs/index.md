@@ -3,9 +3,6 @@ layout: default
 order: 1
 ---
 
-{% assign pages = site.pages | sort: "order" %}
-{% for page in pages %}
- {% if page.chapitre %}
-    {{- page.content | markdownify -}}
-  {% endif %}
-{% endfor %}
+
+- [Rapport](https://labs-web.github.io/besoin/documentation/) 
+- [Présentation](https://labs-web.github.io/besoin/documentation/presentation.html#/) 

@@ -1,17 +1,17 @@
 ---
 layout: default
-chapitre: Introduction
-order: 3
+chapitre: introduction
+presentation: introduction
+order: 2
 ---
 
-
-# Introduction 
-
-![Introduction](./images/Introduction.jpg){:width="300px"}
-*Figure : Introduction*
+# Introduction
+![Introduction](./images/introduction.jpg){:width="900px"}*figure: Introduction*
 
 <!-- note -->
-Dans la phase de capture des besoins fonctionnels de la méthode 2TUP, nous utilisons des techniques telles que la carte d'empathie, la définition du problème et l'idéation pour identifier les besoins des utilisateurs finaux. De plus, l'utilisation d'UML, notamment le diagramme de cas d'utilisation, nous aide à clarifier et à structurer ces besoins.
+
+Dans cette partie, nous avons realisé une application de gestion des projects.
+
+Nous avons développé un système CRUD pour les entités Projets et Tâches en utilisant le framework Laravel, avec des fonctionnalités d'autorisation et authentification et multilngue pour l'interface utilisateur afin de faciliter l'apprentissage des compétences nécessaires à la manipulation efficace de ce framework.
 
 <!-- new slide -->
-
