@@ -5,7 +5,7 @@ presentation: Pôle-sociale
 order: 4
 ---
 
-# Empathie  service social 
+# Empathie  Pôle social 
 {:class="sectionHeader"}
 
 <!-- new slide -->
