@@ -2,7 +2,7 @@
 layout: default
 package: Pôle-sociale
 presentation: Pôle-sociale
-order: 2
+order: 4
 ---
 
 # Empathie  service social 
@@ -14,6 +14,8 @@ order: 2
 ![Empathie social](/besoin/Pôle-sociale/images/carte-empathie-service-social.png){: width="600px" }*Figure : Carte d'empathie du service social Khawla souan*
 
 <!-- note -->
+
+{:class="hiddenPresentation"}
 ### Persona
 Khawla souan
 
@@ -43,3 +45,5 @@ Affiche les information en table exel :
 - Sans
 - Date enregistrement
 - Date entrée
+
+<!-- new slide -->

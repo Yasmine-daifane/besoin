@@ -4,7 +4,7 @@ order: 1
 ---
 {% assign pages = site.pages | sort: "order" %}
 {% for page in pages %}
-  {% if page.chapitre or page.package == "Pôle-sociale" %}
+  {% if  page.package == "Pôle-sociale" %}
     {{- page.content | markdownify -}}
   {% endif %}
 {% endfor %}
