@@ -5,7 +5,7 @@ order: 1
 
 {% assign pages = site.pages | sort: "order" %}
 {% for page in pages %}
- {% if page.package == "empathie-psychomotricien" %}
+ {% if page.presentation or page.presentationPackage == "Psychomotricien"  %}
     {{- page.content | markdownify -}}
   {% endif %}
 {% endfor %}

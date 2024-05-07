@@ -1,6 +1,7 @@
 ---
 layout: default
-package: empathie-psychomotricien
+package: Psychomotricien
+presentationPackage: Psychomotricien
 order: 9
 ---
 
