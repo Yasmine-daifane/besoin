@@ -8,6 +8,6 @@ order: 1
 - [Présentation](https://labs-web.github.io/besoin/documentation/presentation.html#/) 
 - Pole medicale
     - Médecine-général
-      - [Rapport-médecine-général ](https://labs-web.github.io/besoin/documentation/médecine-général) 
-      - [Présentation-médecine-général ](https://labs-web.github.io/besoin/documentation/médecine-général/presentation) 
+      - [Rapport-médecine-général ](https://cnmh.github.io/besoin/documentation/médecine-général) 
+      - [Présentation-médecine-général ](https://cnmh.github.io/besoin/documentation/médecine-général/presentation) 
 
