@@ -1,7 +1,7 @@
 ---
 layout: default
-package: Besoin-orthophoniste
-presentation: Besoin-orthophoniste
+package: Orthophoniste
+presentationPackage: Orthophoniste
 order: 6
 ---
  
@@ -10,6 +10,7 @@ order: 6
 ![alt text](./images/Définir-problème.jpg){:width="500px" }*Figure: Définir le problème.*
 
 <!-- note  -->
-le médecin orthoptiste  a un problème de gestion des bénéficies d'une manière  facile i efficace 
+
+L'orthophoniste rencontre des difficultés dans la gestion efficace et aisée de ses bénéfices.
 
 <!-- new slide -->

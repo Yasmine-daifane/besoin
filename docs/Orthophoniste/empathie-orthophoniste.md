@@ -1,7 +1,7 @@
 ---
 layout: default
-package: Besoin-orthophoniste
-presentation: Besoin-orthophoniste
+package: Orthophoniste
+presentationPackage: Orthophoniste
 order: 6
 ---
 
