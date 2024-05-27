@@ -4,8 +4,13 @@ order: 1
 ---
 
 
-- [Rapport](https://labs-web.github.io/besoin/documentation/) 
-- [Présentation](https://labs-web.github.io/besoin/documentation/presentation.html#/) 
+
+- [Rapport](/besoin/documentation/) 
+- [Présentation](/besoin/documentation/presentation.html#/) 
 
 - [Pole Sociale](https://labs-web.github.io/besoin/documentation/Pôle-sociale/)
   
+- Pole medicale
+    - Médecine-général
+      - [Rapport-médecine-général ](https://cnmh.github.io/besoin/documentation/médecine-général) 
+      - [Présentation-médecine-général ](https://cnmh.github.io/besoin/documentation/médecine-général/presentation) 
